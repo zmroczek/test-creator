@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testCreator</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="add_test">Add test</string>
+    <string name="add_question">Add question</string>
+    <string name="choose_test">Choose test for question:</string>
+    <string name="back_to_tests">Go back to tests</string>
+    <string name="next">Next</string>
+
+    <color name="appColor">#FFECB3</color>
+    <color name="questionColor">#0051FF</color>
+
+</resources>
